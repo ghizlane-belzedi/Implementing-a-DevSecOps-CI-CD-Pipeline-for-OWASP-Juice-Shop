@@ -1,4 +1,4 @@
-name: "SCA with Snyk"
+name: "SCA using Snyk"
 
 on:
   push:
